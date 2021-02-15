@@ -1,0 +1,165 @@
+HW scale not available, forcing to disabled
+Reading configuration file `/home/retrofw/emus/vice/sdl-vicerc'.
+Error - Unknown resource `RomsetArchiveName'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 9.
+Error - Unknown resource `RomsetArchiveActive'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 10.
+Error - Unknown resource `RomsetFileName'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 11.
+Error - Unknown resource `RomsetSourceFile'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 12.
+Error - Unknown resource `DoCoreDump'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 54.
+Error - Unknown resource `ColorSaturation'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 59.
+Error - Unknown resource `ColorContrast'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 60.
+Error - Unknown resource `ColorBrightness'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 61.
+Error - Unknown resource `ColorGamma'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 62.
+Error - Unknown resource `ColorTint'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 63.
+Error - Unknown resource `PALEmulation'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 64.
+Error - Unknown resource `PALScanLineShade'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 65.
+Error - Unknown resource `PALBlur'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 66.
+Error - Unknown resource `PALOddLinePhase'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 67.
+Error - Unknown resource `PALOddLineOffset'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 68.
+Error - Unknown resource `KeymapSymDeFile'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 79.
+Error - Cannot assign value `-1' to resource `MachineVideoStandard'.
+Error - Unknown resource `RomsetChargenName'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 81.
+Error - Unknown resource `RomsetKernalName'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 82.
+Error - Unknown resource `RomsetBasicName'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 83.
+Error - Unknown resource `EmuID'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 84.
+Error - Unknown resource `REUfirstUnusedRegister'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 90.
+Error - Unknown resource `Isepic'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 98.
+Error - Unknown resource `PLUS60K'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 103.
+Error - Unknown resource `PLUS256K'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 106.
+Error - Unknown resource `C64_256K'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 108.
+HW scale not available, forcing to disabled
+Error - Unknown resource `HwScalePossible'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 127.
+Error - Unknown resource `VICIIScale2x'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 128.
+Error - Unknown resource `VICIINewLuminances'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 139.
+Error - Unknown resource `Acia1Dev'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 158.
+Error - Unknown resource `Acia1Irq'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 159.
+Error - Unknown resource `Acia1Mode'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 160.
+Error - Unknown resource `Mousetype'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 186.
+Error - Unknown resource `Mouseport'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 187.
+Error - Unknown resource `Lightpen'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 188.
+Error - Unknown resource `LightpenType'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 189.
+Error - Unknown resource `RomsetDosName2031'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 242.
+Error - Unknown resource `RomsetDosName2040'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 243.
+Error - Unknown resource `RomsetDosName3040'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 244.
+Error - Unknown resource `RomsetDosName4040'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 245.
+Error - Unknown resource `RomsetDosName1001'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 246.
+Error - Unknown resource `IDE64Config'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 255.
+Error - Unknown resource `IDE64Cylinders'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 256.
+Error - Unknown resource `IDE64Heads'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 257.
+Error - Unknown resource `IDE64Sectors'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 258.
+Error - Unknown resource `IDE64AutodetectSize'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 259.
+Error - Unknown resource `ExtraJoy'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 285.
+Error - Unknown resource `ExtraJoyType'.
+Warning - /home/retrofw/emus/vice/sdl-vicerc: Unknown resource specification at line 286. 
+*** VICE Version 2.4.33 ***
+OS compiled for: Linux musl
+GUI compiled for: SDL
+CPU compiled for: MIPS (little endian)
+Compiler used: GCC-8.3.0
+Current OS:  (musl)
+sh: syntax error: unexpected end of file
+Current CPU: mips
+ 
+Welcome to x64, the free portable C64 Emulator.
+ 
+Current VICE team members:
+Andreas Matthies, Martin Pottendorfer, Marco van den Heuvel, Fabrizio Gennari, 
+Groepaz, Marcus Sutton, Kajtar Zsolt, Stefan Haubenthal, BSzili, AreaScout, 
+Bas Wassink.
+ 
+This is free software with ABSOLUTELY NO WARRANTY.
+See the "About VICE" command for more info.
+ 
+Loading system file `/home/retrofw/emus/vice/C64/kernal'.
+Loading system file `/home/retrofw/emus/vice/C64/basic'.
+Loading system file `/home/retrofw/emus/vice/C64/chargen'.
+MPS-803: Error - Could not load MPS-803 charset 'mps803'.
+Palette: Error - Palette not found: `mps803.vpl'.
+MPS-803: Error - Cannot load palette file `mps803.vpl'.
+NL10: Error - Could not load NL-10 ROM file 'nl10-cbm'.
+Palette: Error - Palette not found: `1520.vpl'.
+plot1520: Error - Cannot load palette file `1520.vpl'.
+Loading system file `/home/retrofw/emus/vice/DRIVES/dos1540'.
+Loading system file `/home/retrofw/emus/vice/DRIVES/dos1541'.
+Loading system file `/home/retrofw/emus/vice/DRIVES/d1541II'.
+Loading system file `/home/retrofw/emus/vice/DRIVES/dos1570'.
+Loading system file `/home/retrofw/emus/vice/DRIVES/dos1571'.
+Loading system file `/home/retrofw/emus/vice/DRIVES/dos1581'.
+DriveROM: Error - 2000 ROM image not found. Hardware-level 2000 emulation is not available.
+DriveROM: Error - 4000 ROM image not found. Hardware-level 4000 emulation is not available.
+Loading system file `/home/retrofw/emus/vice/DRIVES/dos2031'.
+Loading system file `/home/retrofw/emus/vice/DRIVES/dos2040'.
+Loading system file `/home/retrofw/emus/vice/DRIVES/dos3040'.
+Loading system file `/home/retrofw/emus/vice/DRIVES/dos4040'.
+Loading system file `/home/retrofw/emus/vice/DRIVES/dos1001'.
+Drive: Finished loading ROM images.
+Sound: Available sound devices: uss sdl dummy fs dump wav voc iff aiff soundmovie
+SDLJoystick: No joysticks found
+SDLKeyboard: Loading hotkey map `/home/retrofw/emus/vice/sdl-hotkey-C64.vkm'.
+SDLKeyboard: Warning - Cannot find menu item "Printer&Printer "!
+SDLKeyboard: Warning - Cannot find menu item "Printer&Printer "!
+SDLKeyboard: Warning - Cannot find menu item "Printer&Printer "!
+SDLKeyboard: Warning - Cannot find menu item "Edit&Copy to Clipboard"!
+SDLKeyboard: Warning - Cannot find menu item "Edit&Paste from Clipboard"!
+SDLKeyboard: Warning - Cannot find menu item "Advance Frame"!
+SDLKeyboard: Warning - Cannot find menu item "Save media file"!
+SDLKeyboard: Warning - Cannot find menu item "Save media file&Create sound recording&Stop recording"!
+SDLKeyboard: Warning - Cannot find menu item "Machine settings&Joystick settings&Swap userport joystick ports"!
+Keyboard: Loading keymap `/home/retrofw/emus/vice/C64/sdl_sym.vkm'.
+SDLVideo: VICII (active) 320x240 16bpp (fullscreen)
+Main CPU: starting at ($FFFC).
+Main CPU: RESET.
+Sound: Opened device `uss', speed 22050Hz, fragment size 2.9ms, buffer size 101ms
+reSID: MOS6581, filter on, sampling rate 22050Hz - fast
+Drive 8: RESET.
+SNDCTL_DSP_POST failed
+SNDCTL_DSP_POST failed
+
+Exiting...
+Sound: Closing device `uss'
+

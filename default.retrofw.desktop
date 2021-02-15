@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Vice
+Comment=C64 Emulator
+Exec=vice.sh
+Icon=x64
+Categories=emulators;
+X-OD-Selector=/home/retrofw/vice
+Terminal=false
+Type=Application
+StartupNotify=true
